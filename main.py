@@ -2,7 +2,7 @@
 
 string = input();
 vowels = ['a','i','u','e','o']
-vowels_in_string = []
+vowels_in_string =[]
 
 string_chairs = list(string)
 for char in string_chars:
